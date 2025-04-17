@@ -16,17 +16,17 @@ Um simples aplicativo de linha de comando (CLI) feito em Rust para consultar o c
 
 ```bash
 git clone https://github.com/Er1kD13G0/Cli-Open-Meteo/
-cd weather-cli
+cd Cli-Open-Meteo
 
 Compile o projeto:
 cargo build --release
 
 Rode o programa:
-cargo run -- --latitude 23.55 --longitude -46.63
+cargo run -- --latitude 23.55 --longitude 46.63
 ´```
 Resultado:
 
-Consultando o clima para latitude -23.55 e longitude -46.63...
+Consultando o clima para latitude 23.55 e longitude 46.63...
 Clima atual:
 Tempo: 2025-04-16T12:00
 Temperatura: 20.2 °C
