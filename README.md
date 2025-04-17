@@ -22,19 +22,16 @@ Compile o projeto:
 cargo build --release
 
 Rode o programa:
-cargo run -- --latitude 40.71 --longitude -74.01
+cargo run -- --latitude 23.55 --longitude -46.63
 ´```
 Resultado:
 
-yaml
-Copiar
-Editar
 Consultando o clima para latitude -23.55 e longitude -46.63...
 Clima atual:
 Tempo: 2025-04-16T12:00
-Temperatura: 25.3 °C
-Velocidade do vento: 8.7 km/h
-Direção do vento: 120°
-Código do clima: 1
+Temperatura: 20.2 °C
+Velocidade do vento: 12.8 km/h
+Direção do vento: 101°
+Código do clima: 0
 
 
